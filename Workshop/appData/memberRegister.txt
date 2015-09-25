@@ -1,0 +1,10 @@
+﻿1	Benga	830202
+1	Bosse	760203
+1	Berit	730303
+
+1	benga	956353
+1	Bosse	56
+1	Bosse	530202
+1	Bengt	771203
+1	Berit	760127
+1	1	1

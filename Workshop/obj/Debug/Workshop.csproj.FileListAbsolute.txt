@@ -1,0 +1,6 @@
+c:\users\anna\documents\visual studio 2013\Projects\Workshop\Workshop\bin\Debug\Workshop.exe.config
+c:\users\anna\documents\visual studio 2013\Projects\Workshop\Workshop\bin\Debug\Workshop.exe
+c:\users\anna\documents\visual studio 2013\Projects\Workshop\Workshop\bin\Debug\Workshop.pdb
+c:\users\anna\documents\visual studio 2013\Projects\Workshop\Workshop\obj\Debug\Workshop.csprojResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2013\Projects\Workshop\Workshop\obj\Debug\Workshop.exe
+c:\users\anna\documents\visual studio 2013\Projects\Workshop\Workshop\obj\Debug\Workshop.pdb
